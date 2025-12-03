@@ -1,4 +1,3 @@
-# perfil
 # 💻 Edigelson Nascimento | Desenvolvedor Front-End
 
 [![Portfólio](https://img.shields.io/badge/🌐-Portfólio-000?style=flat-square)](https://edigelson.pages.dev)
